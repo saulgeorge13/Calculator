@@ -6,4 +6,4 @@ A simple calculator using buttons and functions related to those buttons. Presen
 Future additions: Recover last answer. Decimals?
 
 # Viewer
-A photo viewer with doggo pics. This uses buttons to navigate and images being updated onto a label to display them in a slideshow formtat.
+A photo viewer with doggo pics. This uses buttons to navigate and images being updated onto a label to display them in a slideshow format.
